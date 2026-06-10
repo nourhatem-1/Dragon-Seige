@@ -20,8 +20,5 @@ Dragon Siege is a kids' castle-defense game where an automated castle fights a d
 - IR Sensors
 - LCD Display
 
-## System Diagram
-(Add image here)
-
 ## Authors
 Nour Hatem
